@@ -139,43 +139,43 @@
 				}
 			],
 			"subclassFeatures": [
-				"Giant Soul (UA)|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|1",
-				"Soul of Lost Ostoria|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|6",
-				"Rage of Fallen Ostoria|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|14",
-				"Blessing of the All Father|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|18"
+				"Giant Soul Rev (UA)|Sorcerer||Giant Soul Rev (UA)|UAGiantSoulSorcererRev|1",
+				"Soul of Lost Ostoria|Sorcerer||Giant Soul Rev (UA)|UAGiantSoulSorcererRev|6",
+				"Rage of Fallen Ostoria|Sorcerer||Giant Soul Rev (UA)|UAGiantSoulSorcererRev|14",
+				"Blessing of the All Father|Sorcerer||Giant Soul Rev (UA)|UAGiantSoulSorcererRev|18"
 			]
 		}
 	],
 	"subclassFeature": [
 		{
-			"name": "Giant Soul (UA)",
-			"source": "UAGiantSoulSorcerer",
+			"name": "Giant Soul Rev (UA)",
+			"source": "UAGiantSoulSorcererRev",
 			"page": 1,
 			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Giant Soul (UA)",
-			"subclassSource": "UAGiantSoulSorcerer",
+			"subclassShortName": "Giant Soul Rev (UA)",
+			"subclassSource": "UAGiantSoulSorcererRev",
 			"level": 1,
 			"entries": [
 				"The giants once dwelled in a fabled realm known as Ostoria, a paradise for their folk that reflected their mastery of the mortal realm. In time, Ostoria fell, and the giants were scattered and broken. During that mythic era, the giants granted a few chosen individuals among the small folk a shard of their great power. These favored people were caught in the same tragedy that sundered Ostoria. Since that time, they have spread across the many worlds of the multiverse. Now and again, one of their descendants manifests the gifts imparted by the giants, granting them sorcerous magic that allows them to command the elements and gain the might of a giant.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Jotun Resilience|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|1"
+					"subclassFeature": "Jotun Resilience|Sorcerer||Giant Soul Rev (UA)|UAGiantSoulSorcererRev|1"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Mark of the Ordning|Sorcerer||Giant Soul (UA)|UAGiantSoulSorcerer|1"
+					"subclassFeature": "Mark of the Ordning|Sorcerer||Giant Soul Rev (UA)|UAGiantSoulSorcererRev|1"
 				}
 			]
 		},
 		{
 			"name": "Jotun Resilience",
-			"source": "UAGiantSoulSorcerer",
+			"source": "UAGiantSoulSorcererRev",
 			"page": 1,
 			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Giant Soul (UA)",
-			"subclassSource": "UAGiantSoulSorcerer",
+			"subclassShortName": "Giant Soul Rev (UA)",
+			"subclassSource": "UAGiantSoulSorcererRev",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -184,12 +184,12 @@
 		},
 		{
 			"name": "Mark of the Ordning",
-			"source": "UAGiantSoulSorcerer",
+			"source": "UAGiantSoulSorcererRev",
 			"page": 1,
 			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Giant Soul (UA)",
-			"subclassSource": "UAGiantSoulSorcerer",
+			"subclassShortName": "Giant Soul Rev (UA)",
+			"subclassSource": "UAGiantSoulSorcererRev",
 			"level": 1,
 			"header": 1,
 			"entries": [
@@ -259,12 +259,12 @@
 		},
 		{
 			"name": "Soul of Lost Ostoria",
-			"source": "UAGiantSoulSorcerer",
+			"source": "UAGiantSoulSorcererRev",
 			"page": 1,
 			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Giant Soul (UA)",
-			"subclassSource": "UAGiantSoulSorcerer",
+			"subclassShortName": "Giant Soul Rev (UA)",
+			"subclassSource": "UAGiantSoulSorcererRev",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -340,12 +340,12 @@
 		},
 		{
 			"name": "Rage of Fallen Ostoria",
-			"source": "UAGiantSoulSorcerer",
+			"source": "UAGiantSoulSorcererRev",
 			"page": 1,
 			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Giant Soul (UA)",
-			"subclassSource": "UAGiantSoulSorcerer",
+			"subclassShortName": "Giant Soul Rev (UA)",
+			"subclassSource": "UAGiantSoulSorcererRev",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -366,12 +366,12 @@
 		},
 		{
 			"name": "Blessing of the All Father",
-			"source": "UAGiantSoulSorcerer",
+			"source": "UAGiantSoulSorcererRev",
 			"page": 1,
 			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Giant Soul (UA)",
-			"subclassSource": "UAGiantSoulSorcerer",
+			"subclassShortName": "Giant Soul Rev (UA)",
+			"subclassSource": "UAGiantSoulSorcererRev",
 			"level": 18,
 			"header": 2,
 			"entries": [
@@ -383,11 +383,11 @@
 	"foundrySubclassFeature": [
 		{
 			"name": "Blessing of the All Father",
-			"source": "UAGiantSoulSorcerer",
+			"source": "UAGiantSoulSorcererRev",
 			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Giant Soul (UA)",
-			"subclassSource": "UAGiantSoulSorcerer",
+			"subclassShortName": "Giant Soul Rev (UA)",
+			"subclassSource": "UAGiantSoulSorcererRev",
 			"level": 18,
 			"effects": [
 				{
