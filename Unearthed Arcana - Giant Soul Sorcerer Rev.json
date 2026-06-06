@@ -110,7 +110,7 @@
 							"resistance"
 						],
 						"3": [
-							"maximilians earthen grasp",
+							"maximilian's earthen grasp",
 							"spike growth"
 						],
 						"5": [
@@ -243,7 +243,7 @@
 							"{@creature Stone Giant}",
 							"{@spell resistance}",
 							"{@spell ensnaring strike},<br/>{@spell entangle}",
-							"{@spell maximilians earthen grasp},<br/>{@spell spike growth}",
+							"{@spell maximilian's earthen grasp},<br/>{@spell spike growth}",
 							"{@spell erupting earth},<br/>{@spell meld into stone}"
 						],
 						[
