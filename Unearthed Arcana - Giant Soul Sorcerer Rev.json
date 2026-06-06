@@ -2,10 +2,9 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "UAGiantSoulSorcerer",
+				"json": "UAGiantSoulSorcererRev",
 				"abbreviation": "UAGSS",
-				"full": "Unearthed Arcana: Giant Soul Sorcerer",
-				"url": "https://media.wizards.com/2018/dnd/downloads/UA_GiantSoul.pdf",
+				"full": "Unearthed Arcana: Giant Soul Sorcerer, Revised",
 				"version": "1.0.0",
 				"dateReleased": "2018-06-11",
 				"authors": [
@@ -23,9 +22,9 @@
 	},
 	"subclass": [
 		{
-			"name": "Giant Soul (UA)",
-			"shortName": "Giant Soul (UA)",
-			"source": "UAGiantSoulSorcerer",
+			"name": "Giant Soul Rev. (UA)",
+			"shortName": "Giant Soul Rev. (UA)",
+			"source": "UAGiantSoulSorcererRev",
 			"className": "Sorcerer",
 			"classSource": "PHB",
 			"page": 1,
@@ -35,10 +34,16 @@
 					"known": {
 						"1": [
 							"fog cloud",
+							"disguise self",
 							"minor illusion"
 						],
 						"3": [
-							"invisibility"
+							"invisibility",
+							"misty step"
+						],
+						"5": [
+							"gaseous form",
+							"major image"
 						]
 					}
 				},
@@ -47,10 +52,16 @@
 					"known": {
 						"1": [
 							"burning hands",
-							"fire bolt"
+							"fire bolt",
+							"searing smite"
 						],
 						"3": [
-							"flaming sphere"
+							"flaming sphere",
+							"heat metal"
+						],
+						"5": [
+							"elemental weapon",
+							"fireball"
 						]
 					}
 				},
@@ -58,11 +69,17 @@
 					"name": "Frost",
 					"known": {
 						"1": [
+							"absorb elements",
 							"armor of Agathys",
 							"ray of frost"
 						],
 						"3": [
-							"hold person"
+							"hold person",
+							"shatter"
+						],
+						"5": [
+							"protection from energy",
+							"slow"
 						]
 					}
 				},
@@ -70,11 +87,17 @@
 					"name": "Hill",
 					"known": {
 						"1": [
+							"goodberry",
 							"heroism",
 							"shillelagh"
 						],
 						"3": [
+							"aid",
 							"enlarge/reduce"
+						],
+						"5": [
+							"conjure animals",
+							"fear"
 						]
 					}
 				},
@@ -82,11 +105,17 @@
 					"name": "Stone",
 					"known": {
 						"1": [
+							"ensnaring strike",
 							"entangle",
 							"resistance"
 						],
 						"3": [
+							"maximilians earthen grasp",
 							"spike growth"
+						],
+						"5": [
+							"erupting earth",
+							"meld into stone"
 						]
 					}
 				},
@@ -94,11 +123,17 @@
 					"name": "Storm",
 					"known": {
 						"1": [
+							"create or destroy water",
 							"shocking grasp",
 							"thunderwave"
 						],
 						"3": [
+							"augury",
 							"gust of wind"
+						],
+						"5": [
+							"lightning bolt",
+							"wind wall"
 						]
 					}
 				}
