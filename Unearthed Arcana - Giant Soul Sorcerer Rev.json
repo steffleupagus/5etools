@@ -244,7 +244,7 @@
 							"{@spell resistance}",
 							"{@spell ensnaring strike},<br/>{@spell entangle}",
 							"{@spell maximilians earthen grasp},<br/>{@spell spike growth}",
-							"{@spell erupting earth},<br/>@spell meld into stone}"
+							"{@spell erupting earth},<br/>{@spell meld into stone}"
 						],
 						[
 							"{@creature Storm Giant}",
@@ -299,7 +299,7 @@
 					],					
 					"entries": [
 						"You gain resistance to Cold damage.",
-						"Immediately after you cast any of your Mark of the Ordning spells, you gain temporary hit points equal to your Constitution modifier (minimum of 1). But if the spell is {@spell armor of Agathys}, you instead increase its temporary hit points by an amount equal to your Constitution modifier (minimum of 1)."
+						"Immediately after you cast any of your Mark of the Ordning spells, you gain temporary hit points equal to your Constitution modifier (minimum of 1). If the spell is {@spell armor of Agathys}, you instead increase its temporary hit points by an amount equal to your Constitution modifier (minimum of 1)."
 					]
 				},
 				{
