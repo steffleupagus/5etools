@@ -204,54 +204,54 @@
 						"Spells at 5th Level"
 					],
 					"colStyles": [
-						"col-3",
-						"col-3",
-						"col-3",
-						"col-3",
-						"col-3"
+						"col-1",
+						"col-1",
+						"col-2",
+						"col-2",
+						"col-2"
 					],
 					"rows": [
 						[
 							"{@creature Cloud Giant}",
 							"{@spell minor illusion}",
-							"{@spell disguise self}, {@spell fog cloud}", 
-							"{@spell invisibility}, {@spell misty step}",
-							"{@spell gaseous form}, {@spell major image}"
+							"{@spell disguise self},<br/>{@spell fog cloud}", 
+							"{@spell invisibility},<br/>{@spell misty step}",
+							"{@spell gaseous form},<br/>{@spell major image}"
 						],
 						[
 							"{@creature Fire Giant}",
 							"{@spell fire bolt}",
-							"{@spell burning hands}, {@spell searing smite}",
-							"{@spell flaming sphere}, {@spell heat metal}",
-							"{@spell elemental weapon}, {@spell fireball}"
+							"{@spell burning hands},<br/>{@spell searing smite}",
+							"{@spell flaming sphere},<br/>{@spell heat metal}",
+							"{@spell elemental weapon},<br/>{@spell fireball}"
 						],
 						[
 							"{@creature Frost Giant}",
 							"{@spell ray of frost}",
-							"{@spell absorb elements}, {@spell armor of Agathys}",
-							"{@spell hold person}, {@spell shatter}",
-							"{@spell protection from energy}, {@spell slow}"
+							"{@spell absorb elements},<br/>{@spell armor of Agathys}",
+							"{@spell hold person},<br/>{@spell shatter}",
+							"{@spell protection from energy},<br/>{@spell slow}"
 						],
 						[
 							"{@creature Hill Giant}",
 							"{@spell shillelagh}",
-							"{@spell goodberry}, {@spell heroism}",
-							"{@spell aid}, {@spell enlarge/reduce}",
-							"{@spell conjure animals}, {@spell fear}"
+							"{@spell goodberry},<br/>{@spell heroism}",
+							"{@spell aid},<br/>{@spell enlarge/reduce}",
+							"{@spell conjure animals},<br/>{@spell fear}"
 						],
 						[
 							"{@creature Stone Giant}",
 							"{@spell resistance}",
-							"{@spell ensnaring strike}, {@spell entangle}",
-							"{@spell maximilians earthen grasp}, {@spell spike growth}",
-							"{@spell erupting earth}, {@spell meld into stone}"
+							"{@spell ensnaring strike},<br/>{@spell entangle}",
+							"{@spell maximilians earthen grasp},<br/>{@spell spike growth}",
+							"{@spell erupting earth},<br/>@spell meld into stone}"
 						],
 						[
 							"{@creature Storm Giant}",
 							"{@spell shocking grasp}", 
-							"{@spell create or destroy water}, {@spell thunderwave}",
-							"{@spell augury}, {@spell gust of wind}",
-							"{@spell lightning bolt}, {@spell wind wall}"
+							"{@spell create or destroy water},<br/>{@spell thunderwave}",
+							"{@spell augury},<br/>{@spell gust of wind}",
+							"{@spell lightning bolt},<br/>{@spell wind wall}"
 						]
 					]
 				}
